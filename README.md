@@ -43,7 +43,7 @@ Run the script to process identity documents:
 ```
 ### Input
 
- Documents should be placed in the documents/ folder. Supported formats include .png, .jpeg, and .pdf.
+ Documents should be placed in the documents folder. Supported formats include .png, .jpeg, and .pdf.
 
 ## Output
 
